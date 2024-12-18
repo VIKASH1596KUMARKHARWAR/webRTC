@@ -1,0 +1,11 @@
+using the ws -- server for the websockets
+npm install ws @types/ws
+
+//can use the socke.io too
+
+we will be creating a one way video sharing application
+
+future scope--
+1. two way video sharing    
+2. ui 
+3. audio sharing...and many more
